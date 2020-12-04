@@ -9,12 +9,12 @@
   Quando duas notas válidas forem lidas, deve ser impressa a mensagem "media = " seguido do valor do cálculo. O valor deve ser apresentado com duas casas após o ponto decimal.
 
 ### Exemplo de Entrada	
-  -3.5
-  3.5
-  11.0
-  10.0
+  <p>-3.5</p>
+  <p>3.5</p>
+  <p>11.0</p>
+  <p>10.0</p>
 
 ### Exemplo de Saída
-  nota invalida
-  nota invalida
-  media = 6.75
+  <p>nota invalida<p>
+  <p>nota invalida</p>
+  <p>media = 6.75</p>
